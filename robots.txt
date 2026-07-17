@@ -1,0 +1,20 @@
+# robots.txt for https://imperialnoirhall.onrender.com/
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# Sitemaps
+Sitemap: https://imperialnoirhall.onrender.com/sitemap.xml
+Host: https://imperialnoirhall.onrender.com/
